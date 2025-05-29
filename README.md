@@ -33,7 +33,11 @@
   </br></br>
 <h2> / profile statistics / </h2>
 
+<div style="display: flex; gap: 10px; flex-wrap: nowrap; justify-content: center; align-items: center;">
+  
 [![](https://github-readme-stats.vercel.app/api?username=rofarinango&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)](https://github.com/rofarinango)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=rofarinango&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)](https://github.com/rofarinango)
-<br>
+
+</div>
+ <br>
   
